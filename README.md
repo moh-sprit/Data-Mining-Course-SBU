@@ -1,0 +1,1 @@
+The Data Mining course at Shahid Beheshti University (National University of Iran), CS Faculty for the academic year 2022-2023. In this project, we worked with the "marketing campaign" dataset. Initially, we performed some preprocessing on the dataset and then implemented unsupervised algorithms on the cleaned data.
